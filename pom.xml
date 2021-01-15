@@ -26,7 +26,7 @@
     <json.version>20170516</json.version>
     <json-path.version>2.4.0</json-path.version>
     <maven-compiler-plugin.version>3.6.1</maven-compiler-plugin.version>
-    <poi.version>3.17</poi.version>
+    <poi.version>4.0.0</poi.version>
     <poiooxml.version>${poi.version}</poiooxml.version>
     <selenium.version>3.13.0</selenium.version>
     <!-- not all ${selenium.version} -->
